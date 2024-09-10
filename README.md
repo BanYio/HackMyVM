@@ -9,5 +9,5 @@ En este repositorio iré subiendo los WriteUps de las máquinas de la plataforma
 
 ## Estructura del Repositorio
 
-- **Máquinas.md/**: Cada archivo estará etiquetado con el nombre de la máquina correspondiente y contendrá la resolución paso a paso.
+- **Máquinas.md**: Cada archivo estará etiquetado con el nombre de la máquina correspondiente y contendrá la resolución paso a paso.
 - **README.md**: Descripción general del repositorio y cómo utilizarlo.
